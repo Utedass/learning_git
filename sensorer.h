@@ -10,7 +10,7 @@ public:
 	~Sensorer();
 
 private:
-	int nytt_hemlig_variabel;
+	int nytt_hemlig_variabel = 35;
 }
 
 #endif
